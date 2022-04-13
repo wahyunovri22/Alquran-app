@@ -13,3 +13,6 @@ https://github.com/wanrabbae/al-quran-indonesia-api
 dengan memanfaatkan library dari : https://github.com/Karumi/Dexter
 
 # Tampilan Aplikasi
+
+![screenshot 1](ss/s2.jpeg)
+![screenshot 2](ss/s1.jpeg)
